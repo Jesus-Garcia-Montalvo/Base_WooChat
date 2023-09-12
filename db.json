@@ -118,64 +118,6 @@
           "hour": "10:50:00 a. m.",
           "message": "Hola",
           "flag": false
-        },
-        {
-          "id": 3,
-          "sendBy": 1,
-          "date": "2023-09-11",
-          "hour": "7:31:43 p. m.",
-          "message": "hola",
-          "flag": false
-        },
-        {
-          "id": 4,
-          "sendBy": 1,
-          "date": "2023-09-11",
-          "hour": "8:58:54 p. m.",
-          "message": "hola",
-          "flag": false
-        },
-        {
-          "sendBy": 1,
-          "date": "2023-09-11",
-          "hour": "8:59:07 p. m.",
-          "message": "hola",
-          "flag": false
-        },
-        {
-          "sendBy": 1,
-          "date": "2023-09-11",
-          "hour": "9:04:31 p. m.",
-          "message": "hola x2",
-          "flag": false
-        },
-        {
-          "sendBy": 1,
-          "date": "2023-09-11",
-          "hour": "3:23:37 p. m.",
-          "message": "hola",
-          "flag": false
-        },
-        {
-          "sendBy": 1,
-          "date": "2023-09-12",
-          "hour": "9:07:05 p. m.",
-          "message": "hola",
-          "flag": false
-        },
-        {
-          "sendBy": 1,
-          "date": "2023-09-12",
-          "hour": "11:25:36 p. m.",
-          "message": "hola ya terminamos",
-          "flag": false
-        },
-        {
-          "sendBy": 1,
-          "date": "2023-09-12",
-          "hour": "11:26:25 p. m.",
-          "message": "hola",
-          "flag": false
         }
       ]
     },
